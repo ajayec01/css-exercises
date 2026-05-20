@@ -1,1 +1,11 @@
-/* Add CSS Styling */
+/*Add CSS Styling */
+
+
+/* Write a CSS rule to make the background red and color white center aligned for div type and size like h1 */
+
+div {
+  background-color: red;
+  color: white;
+  text-align: center;
+  font-size: 2em; /* This will make the text size similar to h1 */
+}
