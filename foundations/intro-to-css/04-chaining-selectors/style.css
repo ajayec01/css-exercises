@@ -1,1 +1,15 @@
 /* Add CSS Styling */
+
+/* avatar that keeps its original proportions (square) */
+.avatar.proportioned {
+	width: 300px;
+	height: auto;
+	display: block;
+}
+
+/* avatar that is intentionally distorted: height is twice the width */
+.avatar.distorted {
+	width: 200px;
+	height: 400px;
+	display: block;
+}
